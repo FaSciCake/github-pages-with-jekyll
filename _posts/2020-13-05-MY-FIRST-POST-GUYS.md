@@ -1,5 +1,5 @@
 ---
-title: Blog page title this is"
+title: "Blog page title this is"
 date: 2020-05-13
 ---
 
