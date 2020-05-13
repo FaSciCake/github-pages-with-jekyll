@@ -1,3 +1,8 @@
+---
+title: Blog page title this is"
+date: 2020-05-13
+---
+
 # MY FIRST PAGE WITH GIANT HASH SYMBOL
 
 Table of contents:
